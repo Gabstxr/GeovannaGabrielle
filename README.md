@@ -8,28 +8,8 @@ Oii!! Me chamo Geovanna Gabrielle <div align="center">
 
 <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/941473643790213151/941473717752569906/output_2c8I5Q.gif?width=676&height=676">
 
-
-
   <a href="https://instagram.com/gabstrx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-
-
- 
-
-
-
   <a href="https://www.linkedin.com/in/geovannagabrielle" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-
-
-
-  
-
-
-  
-
-
- 
 
 </div>
