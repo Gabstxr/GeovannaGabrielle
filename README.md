@@ -6,7 +6,7 @@ Oii!! Me chamo Geovanna Gabrielle <div align="center">
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/941473643790213151/941473717752569906/output_2c8I5Q.gif?width=676&height=676">
 
 
 
